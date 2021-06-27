@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanvi Pathak</h1>
-<h3 align="center">A passionate frontend developer and data science enthusiast</h3>
+<h3 align="center">A passionate datascience enthusiast and frontend developer</h3>
 <h3 align="center">Also, I can whip up a delicious meal or bake you some pretty fancy desserts</h3>
 
 <h3 align="left">Connect with me:</h3>
